@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "GameOfLife",
+            "request": "launch",
+            "mainClass": "GameOfLife",
+            "projectName": "hw05-reserves-Benzvi17_7f8b25fb"
+        },
+        {
+            "type": "java",
+            "name": "StdDraw",
+            "request": "launch",
+            "mainClass": "StdDraw",
+            "projectName": "hw05-reserves-Benzvi17_7f8b25fb"
+        },
+        {
+            "type": "java",
+            "name": "In",
+            "request": "launch",
+            "mainClass": "In",
+            "projectName": "hw05-reserves-Benzvi17_7f8b25fb"
+        },
+        {
+            "type": "java",
+            "name": "BouncingBall",
+            "request": "launch",
+            "mainClass": "BouncingBall",
+            "projectName": "hw05-reserves-Benzvi17_7f8b25fb"
+        },
+        {
+            "type": "java",
+            "name": "PlotMap",
+            "request": "launch",
+            "mainClass": "PlotMap",
+            "projectName": "hw05-reserves-Benzvi17_7f8b25fb"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
@@ -15,32 +50,28 @@
             "name": "GameOfLife",
             "request": "launch",
             "mainClass": "GameOfLife",
-            "projectName": "hw05-reserves_55925ea"//,
-            // "args": ""
+            "projectName": "hw05-reserves_55925ea"
         },
         {
             "type": "java",
             "name": "In",
             "request": "launch",
             "mainClass": "In",
-            "projectName": "hw05-reserves_55925ea"//,
-            // "args": ""
+            "projectName": "hw05-reserves_55925ea"
         },
         {
             "type": "java",
             "name": "StdDraw",
             "request": "launch",
             "mainClass": "StdDraw",
-            "projectName": "hw05-reserves_55925ea"//,
-            // "args": ""
+            "projectName": "hw05-reserves_55925ea"
         },
         {
             "type": "java",
             "name": "TesterGameOfLife",
             "request": "launch",
             "mainClass": "TesterGameOfLife",
-            "projectName": "hw05-reserves_55925ea"//,
-            // "args": ""
+            "projectName": "hw05-reserves_55925ea"
         }
     ]
 }
