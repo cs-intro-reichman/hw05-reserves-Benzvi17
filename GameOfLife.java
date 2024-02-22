@@ -128,7 +128,7 @@ public class GameOfLife {
 		if (i < 0 || i > board.length) {
 			return 0;
 		}
-		if (j < 0 || j > board[0].length) {
+		if (j < 0 || j > board[1].length) {
 			
 		}
 			return board[i][j];
